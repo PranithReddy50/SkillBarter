@@ -1,4 +1,5 @@
 # SkillBarter
+# ######### codes are uploaded as ZIP folder (to view select view as raw) ##############
 # Project overview
    It empowers people to exchange their skills without money a  impactful way to  local collaboration and sustainability. This motivates me to built this platform to help the people to use their skills properly and impactfuly and get the help from others for their need without spending money .This lies under 8 and 11 sustainable development goals.
 # Techstack used
